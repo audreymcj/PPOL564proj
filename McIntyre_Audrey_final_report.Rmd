@@ -110,7 +110,7 @@ The first model I ran included a sample of all BRFSS respondents, regardless of 
 
 
 
-Disability had the largest impact on the model, with an AUC ROC score of .096. This supports that experiences of health and health systems are different for people based on disability status. Exercise (with a score of .035), age (.020), income (.019), and  depression (.18) were also among the top factors influencing health. I also constructed plots showing interactions between disability and the top three other factors (Figure 4). 
+Disability had the largest impact on the model, with an reduction score of .096. This supports that experiences of health and health systems are different for people based on disability status. Exercise (with a score of .035), age (.020), income (.019), and  depression (.18) were also among the top factors influencing health. I also constructed plots showing interactions between disability and the top three other factors (Figure 4). 
 
 <center>
 
@@ -141,7 +141,7 @@ Although the model containing only data from people who reported having a disabi
 <center>
 
 
-While age is a primary variable in the other two models, for people with disabilities it ranks only fifth in importance. Instead, exercise is the most important factor, with a .065 change AUC ROC. Depression diagnoses and income level play slightly larger roles here, with scores of around .28, but a significant change here is in the increased importance of having a job (.022). While we can expect having a job to be correlated with income, for this population it could also be connected to measures which are not included in this model, such as type of impairment. In my past work with the State of Minnesota, whether a person had a job was also correlated with factors such as connections to the community and how much control they had over their daily lives, two items which can also impact health. 
+While age is a primary variable in the other two models, for people with disabilities it ranks only fifth in importance. Instead, exercise is the most important factor, with a .065 reduction in AUC. Depression diagnoses and income level play slightly larger roles here, with scores of around .28. An interesting change is in the increased importance of having a job (.022). While we can expect having a job to be correlated with income, for this population it could also be connected to measures which are not included in this model, such as type of impairment. In my past work with the State of Minnesota, whether a person had a job was also correlated with factors such as connections to the community and how much control they had over their daily lives, two items which can also impact health. 
 
 Another interesting factor in this model is how little importance Medicaid spending or quality had on overall health. To explore this further, I grouped data for people with disabilities by state, and plotted average health ratings for each state against the state’s quality of care ratings (Figure 7).
 
@@ -173,7 +173,7 @@ The criteria for success laid out in my project proposal was to test for differe
 
 A different, but related and highly salient research question, is the extent to which health varies for individuals in institutionalized settings. Social determinants of health may play an especially large role here, and including more data on these in any further research will likely be helpful in pinpointing differences in health between people with and without disabilities.
 
-##### Word Count: 3,000
+##### Word Count: 2,980
 
 
 # Resources Cited: 
